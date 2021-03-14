@@ -15,10 +15,14 @@ A demo site is available at here.
 
 [https://adsense-demo.np-sys.com](https://adsense-demo.np-sys.com)
 
+----/*
+
 ![alt text](./image3.jpg)
 
+*/-----
 
 ## Instructions
+
 
 Details is available at my blog post.
 

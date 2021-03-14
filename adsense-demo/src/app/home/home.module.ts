@@ -14,8 +14,8 @@ import { AdsenseModule } from 'ng2-adsense';
     IonicModule,
     HomePageRoutingModule,
     AdsenseModule.forRoot({
-      adClient: 'ca-pub-25129032XXXXXXXX',
-      adSlot: 54XXXXXXXX,
+      adClient: 'ca-pub-251290XXXXXXXXXX',
+      adSlot: 5435XXXXXXX,
     }),
   ],
   declarations: [HomePage]
