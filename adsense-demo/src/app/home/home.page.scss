@@ -25,3 +25,19 @@
 #container a {
   text-decoration: none;
 }
+
+.my-class-parent {
+  height: 100%;
+  position: relative;
+}
+
+.my-class-child {
+  position: absolute;
+  left: 50%;
+  top:30%;
+  padding-left: 0;
+}
+
+.main{
+  padding: 20px;
+}
